@@ -36,9 +36,7 @@ def solve() :
     tet5 = [[1,1,1],[0,1,0]]
     tet6 = [[0,1],[1,1],[1,0]]
     tet7 = [[0,1],[0,1],[1,1]]
-    tet8 = [[1,1],[1,0],[1,0]]
-    tet9 = [[1,1],[0,1],[0,1]]
-    tet = [tet1,tet2,tet3,tet4,tet5,tet6,tet7,tet8,tet9]
+    tet = [tet1,tet2,tet3,tet4,tet5,tet6,tet7]
 
     for t in tet :
         for _ in range(4):
