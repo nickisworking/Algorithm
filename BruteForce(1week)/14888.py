@@ -32,7 +32,7 @@ def dfs(n,a,operators,idx,sum) :
         if min > sum :
             min = sum
         return
-
+        
     for i in range(4) :
         copied_operators = deepcopy(operators)
         if copied_operators[i] > 0  :
