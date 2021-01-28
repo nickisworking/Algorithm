@@ -32,5 +32,3 @@ int main(void) {
     }
 }
 
-
-출처: https://wogud6792.tistory.com/21 [코딩 일기장]
