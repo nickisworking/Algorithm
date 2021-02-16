@@ -5,5 +5,6 @@
 #### 3nd week : DP
 #### 4th week : DP2
 #### 5th week : Graph
+#### 6th week : bfs Algorithm
 
 #### Class : 2020-1 SKKU Algorithm class
